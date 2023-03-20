@@ -1,6 +1,24 @@
 # PB Projekte
 
-Sucht euch ein Team von 2-3 Leuten und implementiert gemeinsam eines der Folgenden Projektideen:
+Sucht euch ein Team von 2-3 Leuten und implementiert gemeinsam eines der Folgenden Projektideen. Macht euch vorher einen Plan wie ihr es genau implementieren wollt. 
+
+### Taschenrechner:
+https://github.com/22-d08-a/PB-Calculator
+
+### Pokemon-Lite:
+https://github.com/22-d08-a/PB-pokemon-lite
+
+### Schere, Stein, Papier:
+Implementiere eine Befehlszeilenversion des klassischen Schere, Stein, Papier-Spiels.
+1. Implementiere Funktionen, um den Gewinner des Spiels zu bestimmen.
+2. Implementiere Funktionen, um den Punktestand des Benutzers zu verfolgen.
+3. Optional: Füge einen einfachen KI-Gegner hinzu, der seinen Zug basierend auf vordefinierten Strategien auswählt.
+
+### To-Do-Liste (Kommandozeile):
+ Erstelle eine Befehlszeilen-To-Do-Liste-Anwendung, die es Benutzern ermöglicht, Aufgaben hinzuzufügen, zu entfernen und als erledigt zu markieren. Verwende Objekte und Arrays, um Aufgaben zu speichern, und implementiere Funktionen, um Benutzereingaben zu verarbeiten und die Aufgabenliste zu aktualisieren.
+1. Erstelle eine Struktur für die Speicherung von Aufgaben mit Objekten und Arrays.
+2. Implementiere Funktionen, um Benutzereingaben zu verarbeiten (Hinzufügen, Entfernen, Aufgabe als erledigt markieren).
+3. Zeige und aktualisiere die Liste der Aufgaben in der Kommandozeile.
 
 ### Textbasiertes Adventure Game
 Erstelle ein einfaches textbasiertes Abenteuerspiel, das Objekte und Klassen verwendet, um Charaktere, Gegenstände und Orte zu definieren. Die Spieler können die Geschichte über die Befehlszeile durchlaufen und Entscheidungen treffen, die das Ergebnis des Spiels beeinflussen.
@@ -45,20 +63,4 @@ Entwickle ein einfaches Werkzeug, das Nachrichten mit einer einfachen Chiffre, w
 3. Generiere Geschichten, indem die Lücken mit den eingegebenen Wörtern gefüllt werden.
 4. Verwende String-Manipulation und Array-Methoden, um die endgültige Geschichte zu erstellen.
 
-### Schere, Stein, Papier:
-Implementiere eine Befehlszeilenversion des klassischen Schere, Stein, Papier-Spiels.
-1. Implementiere Funktionen, um den Gewinner des Spiels zu bestimmen.
-2. Implementiere Funktionen, um den Punktestand des Benutzers zu verfolgen.
-3. Optional: Füge einen einfachen KI-Gegner hinzu, der seinen Zug basierend auf vordefinierten Strategien auswählt.
 
-### To-Do-Liste (Kommandozeile):
- Erstelle eine Befehlszeilen-To-Do-Liste-Anwendung, die es Benutzern ermöglicht, Aufgaben hinzuzufügen, zu entfernen und als erledigt zu markieren. Verwende Objekte und Arrays, um Aufgaben zu speichern, und implementiere Funktionen, um Benutzereingaben zu verarbeiten und die Aufgabenliste zu aktualisieren.
-1. Erstelle eine Struktur für die Speicherung von Aufgaben mit Objekten und Arrays.
-2. Implementiere Funktionen, um Benutzereingaben zu verarbeiten (Hinzufügen, Entfernen, Aufgabe als erledigt markieren).
-3. Zeige und aktualisiere die Liste der Aufgaben in der Kommandozeile.
-
-### Taschenrechner:
-https://github.com/22-d08-a/PB-Calculator
-
-### Pokemon-Lite:
-https://github.com/22-d08-a/PB-pokemon-lite
