@@ -1,5 +1,5 @@
 # PB Projekte
-Wählt gemeinsam mit euren Teammitgliedern (2-3 Personen pro Team) eine der folgenden Projektideen aus und entwickelt sie gemeinsam. Nach Absprache können auch andere bzw. eigene Projekte implementiert werden. Bevor ihr mit der Implementierung beginnt, erstellt einen Plan, der eure Vorgehensweise und die Aufgabenverteilung innerhalb des Teams festlegt. Viel Erfolg!
+Wählt gemeinsam mit euren Teammitgliedern (2-3 Personen pro Team) eine der folgenden Projektideen aus und entwickelt sie gemeinsam. Nach Absprache können auch andere bzw. eigene Projekte implementiert werden. Bevor ihr mit der Implementierung beginnt, erstellt einen Plan, der eure Vorgehensweise und die Aufgabenverteilung innerhalb des Teams festlegt. Am Donnerstagnachmittag sollen die Projekte vorgestellt werden, selbst wenn sie noch nicht vollständig abgeschlossen sind. Viel Erfolg und viel Spaß beim Programmieren!
 
 ### Taschenrechner:
 https://github.com/22-d08-a/PB-Calculator
