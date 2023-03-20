@@ -1,6 +1,6 @@
 # PB Projekte
 
-Sucht euch ein Team von 1-3 Leuten und bearbeitet gemeinsam eines der Folgenden Projektideen:
+Sucht euch ein Team von 2-3 Leuten und implementiert gemeinsam eines der Folgenden Projektideen:
 
 ### Textbasiertes Adventure Game
 Erstelle ein einfaches textbasiertes Abenteuerspiel, das Objekte und Klassen verwendet, um Charaktere, Gegenstände und Orte zu definieren. Die Spieler können die Geschichte über die Befehlszeile durchlaufen und Entscheidungen treffen, die das Ergebnis des Spiels beeinflussen.
