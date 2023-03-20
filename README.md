@@ -45,7 +45,6 @@ Entwickle ein einfaches Werkzeug, das Nachrichten mit einer einfachen Chiffre, w
 3. Generiere Geschichten, indem die Lücken mit den eingegebenen Wörtern gefüllt werden.
 4. Verwende String-Manipulation und Array-Methoden, um die endgültige Geschichte zu erstellen.
 
-
 ### Schere, Stein, Papier:
 Implementiere eine Befehlszeilenversion des klassischen Schere, Stein, Papier-Spiels.
 1. Implementiere Funktionen, um den Gewinner des Spiels zu bestimmen.
@@ -58,3 +57,8 @@ Implementiere eine Befehlszeilenversion des klassischen Schere, Stein, Papier-Sp
 2. Implementiere Funktionen, um Benutzereingaben zu verarbeiten (Hinzufügen, Entfernen, Aufgabe als erledigt markieren).
 3. Zeige und aktualisiere die Liste der Aufgaben in der Kommandozeile.
 
+### Taschenrechner:
+https://github.com/22-d08-a/PB-Calculator
+
+### Pokemon-Lite:
+https://github.com/22-d08-a/PB-pokemon-lite
